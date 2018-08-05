@@ -1,2 +1,2 @@
 # OCRModel
-This is an implementation of Optical Character Recognition using Deep Learning Methods (CNN). 
+An implementation of Optical Character Recognition using Deep Learning CNN. The dataset generated comprises of various characters of different fonts of different sizes and different types of noises have also been added to them to augment the dataset. CNN has been used to predict the various characters extracted from pdfs and image files. The Accuracy obtained with this model was 99.5% on test dataset.
